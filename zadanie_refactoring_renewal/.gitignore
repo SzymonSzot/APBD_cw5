@@ -3,6 +3,11 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
+# Non changing project files
+
+LegacyRenewalAppConsumer/
+LegacyRenewalApp/LegacyBillingGateway.cs
+
 # dotenv files
 .env
 
